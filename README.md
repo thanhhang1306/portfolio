@@ -2,4 +2,4 @@
  This website was developed with BootStrap, JQuery, and other frameworks.
  
  ## Installation 
- To view the website, visit
+ To view the website, click the link [here](https://thanhhang1306.github.io/hang-pham-portfolio/).
