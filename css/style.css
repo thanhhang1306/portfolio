@@ -166,7 +166,6 @@ b, strong {
   top: 0;
   right: 0;
   left: 0;
-  z-index: 999999;
   will-change: transform;
   transition: transform 200ms linear;
 }
@@ -577,11 +576,11 @@ b, strong {
 }
 
 .header {
-  z-index: 990;
+  z-index:1;
   top:30px;
   position: relative;
-    height: 100%;
-    min-height: 600px;
+  height: 100%;
+    min-height: 600px; 
     text-align: center;
     color: #fff;
     background-image: url(../images/header/header-light.png);
