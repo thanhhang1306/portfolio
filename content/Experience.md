@@ -1,6 +1,6 @@
 ## Aspiritech
 - *Software Engineer Intern* | June '23 - Present
-- ![aspiritech](process.env.PUBLIC_URL/../assets/logo/aspiritech.svg)
+- ![aspiritech](../assets/logo/aspiritech.svg)
 - Tags: Software Development
 - Badges:
   - React [blue]
