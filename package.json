@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://thanhhang1306.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.17",
