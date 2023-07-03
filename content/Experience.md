@@ -55,6 +55,14 @@
   - Implement RESTful endpoints to perform CRUD operations on data from AWS PostgreSQL database through Django REST framework. 
   - Contribute to the UI design and testing of the platform's mobile and website application.
 
+## Intro to ML Safety - Center for AI Safety
+- *Student Participant* | May '23 - Present
+- ![ai-safety](/assets/logo/ai.svg)
+- Tags: Machine Learning
+- Badges:
+  - AI Safety and Alignment [red]
+- List Items:
+  - Participant in an 8-week course on AI Safety (Robustness, Monitoring, Alignment and Systemic Safety), taught by Dan Hendrycks at UC Berkeley. 
 
 ## Princeton's Digital Learning Lab
 - *Digital Specialist* | September '22 - May '23
