@@ -1,6 +1,6 @@
 ## Aspiritech
 - *Software Engineer Intern* | June '23 - Present
-- ![aspiritech](../assets/logo/aspiritech.svg)
+- ![aspiritech](/assets/logo/aspiritech.svg)
 - Tags: Software Development
 - Badges:
   - React [blue]
@@ -14,7 +14,7 @@
 
 ## The Daily Princetonian 
 - *Software Engineer* | January '23 - Present
-- ![daily_prince](../assets/logo/prince.png)
+- ![daily_prince](/assets/logo/prince.png)
 - Tags: Software Development
 - Badges:
   - React/React Native [blue]
@@ -29,7 +29,7 @@
 
 ## Vietnam National University of Engineering and Technology
 - *Software Development Intern* | June '22 - August '22
-- ![vnu](../assets/logo/vnu.jpeg)
+- ![vnu](/assets/logo/vnu.jpeg)
 - Tags: Software Development
 - Badges:
   - React [blue]
@@ -42,7 +42,7 @@
 
 ## Ticket Wallet
 - *Software Engineer/Machine Learning Intern* | May '23 - Present
-- ![ticket_wallet](../assets/logo/tw.png)
+- ![ticket_wallet](/assets/logo/tw.png)
 - Tags: Machine Learning
 - Badges:
   - AWS SageMaker [purple]
@@ -58,7 +58,7 @@
 
 ## Princeton's Digital Learning Lab
 - *Digital Specialist* | September '22 - May '23
-- ![digital_specialist](../assets/logo/dll.png)
+- ![digital_specialist](/assets/logo/dll.png)
 - Tags: Others
 - Badges:
   - Adobe Illustrator [pink]
@@ -69,7 +69,7 @@
 
 ## Princeton's Department of Computer Science
 - *Undergraduate Course Assistant* | February '22 - May '23
-- ![cos](../assets/logo/cos.png)
+- ![cos](/assets/logo/cos.png)
 - Tags: Others
 - Badges:
   - Java [blue]
