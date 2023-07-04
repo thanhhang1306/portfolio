@@ -3,7 +3,7 @@
 - ![aspiritech](/assets/logo/aspiritech.svg)
 - Tags: Software Development
 - Badges:
-  - React [blue]
+  - React/Router [blue]
   - Flask/Flask-RESTful [black]
   - PostgreSQL [red]
   - Google Chrome Extension [green]
@@ -17,11 +17,12 @@
 - ![daily_prince](/assets/logo/prince.png)
 - Tags: Software Development
 - Badges:
-  - React/React Native [blue]
+  - React Native [purple]
+  - React/Redux/Router [blue]
   - NodeJS [green]
   - Flask/Flask-RESTful [black]
   - AWS RDS (PostgreSQL) [red]
-  - Firebase [yellow]
+  - Google Firebase [yellow]
 - List Items:
   - Implement in-app advertisements for the organization's mobile app using Flask-RESTful APIs (with data stored in AWS RDS - PostgreSQL and Google Firebase). 
   - Build front-end components for the aforementioned platform with React Native. 
