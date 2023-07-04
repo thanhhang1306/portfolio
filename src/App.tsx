@@ -19,7 +19,7 @@ function App(): JSX.Element {
       <About color={color} />
       <Education color={color} />
       <Experience color={color} />
-      {/* <Projects color={color} /> */}
+      <Projects color={color} />
       <Contact color={color} />
       <Footer />
     </>

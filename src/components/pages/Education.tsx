@@ -1,4 +1,5 @@
 import React from "react";
+import { Slide } from "react-reveal";
 import { Divider, Stack, Text, Container, Box, HStack } from "@chakra-ui/react";
 
 interface Event {
@@ -50,25 +51,27 @@ const Education: React.FC<EducationProps> = ({ color }) => {
           </Stack>
 
           {events.map((event, index) => (
-            <Stack direction="row" spacing={0} align="center" key={index}>
-              <Stack
-                spacing={4}
-                py={2}
-                pr={4}
-                pl={6}
-                borderLeftWidth="2px"
-                borderLeftColor={`${color}.400`}
-                textAlign="left"
-              >
-                <Text fontWeight="bold" fontSize="xl">
-                  {event.title}
-                </Text>
-                <Text fontStyle="italic" fontSize="l">
-                  {event.date}
-                </Text>
-                <Text whiteSpace="pre-line">{event.description}</Text> 
+            <Slide left key={index}>
+              <Stack direction="row" spacing={0} align="center">
+                <Stack
+                  spacing={4}
+                  py={2}
+                  pr={4}
+                  pl={6}
+                  borderLeftWidth="2px"
+                  borderLeftColor={`${color}.400`}
+                  textAlign="left"
+                >
+                  <Text fontWeight="bold" fontSize="xl">
+                    {event.title}
+                  </Text>
+                  <Text fontStyle="italic" fontSize="l">
+                    {event.date}
+                  </Text>
+                  <Text whiteSpace="pre-line">{event.description}</Text>
+                </Stack>
               </Stack>
-            </Stack>
+            </Slide>
           ))}
         </Stack>
       </Container>

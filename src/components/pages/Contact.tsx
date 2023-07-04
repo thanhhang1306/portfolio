@@ -1,4 +1,5 @@
 import React from "react";
+import { Fade } from "react-reveal";
 import {
   Divider,
   Stack,
@@ -47,6 +48,7 @@ const Contact: React.FC<ContactProps> = ({ color }) => {
             <Divider orientation="horizontal" />
           </Stack>
           <Stack spacing={4} as={Container} maxW={"3xl"} textAlign={"center"}>
+            <Fade>
             <Heading fontSize={"3xl"}>Let's stay in touch!</Heading>
             <Text color={"white.600"} fontSize={"xl"} px={4}>
             If you are looking for an ambitious and motivated individual to join your team, I would be honored to have the opportunity to connect with you. Please feel free to reach out to me for further discussion.
@@ -61,6 +63,7 @@ const Contact: React.FC<ContactProps> = ({ color }) => {
                 <FaEnvelope onClick={email} size={28} />
               </HStack>
             </Center>
+            </Fade>
           </Stack>
         </Stack>
       </Container>

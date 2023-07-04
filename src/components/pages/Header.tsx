@@ -11,6 +11,7 @@ import {
   createIcon,
   Image,
 } from "@chakra-ui/react";
+import { Fade } from "react-reveal";
 
 interface HeaderProps {
   color: string;
@@ -47,25 +48,32 @@ const Header: React.FC<HeaderProps> = ({ color }) => {
           pb={{ base: 20, md: 36 }}
           pt={{ base: 36, md: 52 }}
         >
+          <Fade>
           <Heading
             fontWeight={600}
             fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
             lineHeight={"110%"}
+            mb={3} 
           >
             Hello, my name is <br />
-            <Text fontFamily="Caveat" fontStyle="cursive" fontSize="6xl">
+           
+            <Text fontFamily="Caveat" fontStyle="cursive" fontSize="6xl"  mb={15}>
              - Hang Pham -
             </Text>
+            
             <Text as={"span"} color={`${color}.400`}>
               a software engineer.
             </Text>
+            <br />
           </Heading>
-          <Text
-            color={"gray.500"}
-            fontSize={{ base: "lg", sm: "xl", md: "2xl" }}
-          >
-            ⁎⁺✧˳ full-stack and mobile developer with an interest in ML ⁎⁺˳
-          </Text>
+          
+            <Text
+              color={"gray.500"}
+              fontSize={{ base: "lg", sm: "xl", md: "2xl" }}
+            >
+              ⁎⁺✧˳ full-stack and mobile developer with an interest in ML ⁎⁺˳
+            </Text>
+          </Fade>
           <br />
           <br />
           <br />
@@ -116,7 +124,10 @@ const Header: React.FC<HeaderProps> = ({ color }) => {
                 Click me!
               </Text>
               <img
-                src={useColorModeValue("/assets/header/header_light.png", "/assets/header/header_dark.png")}
+                src={useColorModeValue(
+                  process.env.PUBLIC_URL + "/assets/header/header_light.png",
+                  process.env.PUBLIC_URL + "/assets/header/header_dark.png"
+                )}
                 alt="Header Image"
                 style={{ position: "absolute", right: 0, bottom: "90px", width: "500px" }}
               />
@@ -141,7 +152,4 @@ const Arrow = createIcon({
   ),
 });
 
-
-
-
-export default Header; 
+export default Header;

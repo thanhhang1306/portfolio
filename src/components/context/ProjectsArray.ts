@@ -68,7 +68,7 @@ const ProjectsArray: React.FC = () => {
   const [projects, setProjects] = useState<Project[]>([]);
 
   useEffect(() => {
-    fetch("/content/Projects.md")
+    fetch(process.env.PUBLIC_URL + "/content/Projects.md")
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");

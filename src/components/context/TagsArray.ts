@@ -18,7 +18,7 @@ const TagsArray = (file) => {
   const [Tags, setTags] = useState([]);
 
   useEffect(() => {
-    fetch(`/content/${file}.md`)
+    fetch(process.env.PUBLIC_URL + `/content/${file}.md`)
       .then((response) => {
         if (!response.ok) {
           throw new Error("Failed to fetch markdown content");

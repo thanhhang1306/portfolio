@@ -20,6 +20,7 @@ import {
 import { Fade } from "react-reveal";
 import ProjectsArray from "../context/ProjectsArray";
 import OtherProjectsArray from "../context/OtherProjectsArray";
+import TagsArray from "../context/TagsArray";
 
 interface Project {
   name: string;
@@ -44,7 +45,7 @@ interface ProjectsProps {
 const Projects: React.FC<ProjectsProps> = ({ color }) => {
   const projects: Project[] = ProjectsArray();
   const others: OtherProject[] = OtherProjectsArray();
-  const options = ["Website", "Mobile", "Game"];
+  const options = TagsArray("ProjectsTags");
 
   const [selected, setSelected] = useState<string>("All");
 
@@ -79,8 +80,7 @@ const Projects: React.FC<ProjectsProps> = ({ color }) => {
                   }}
                   overflow="hidden"
                 >
-                  <Image objectFit="cover" src={project.image} />
-
+                  <Image objectFit="cover" src={`${process.env.PUBLIC_URL}/${project.image}`}/>
                   <Stack>
                     <CardBody align="left">
                       <Heading size="md">{project.name}</Heading>
@@ -113,7 +113,7 @@ const Projects: React.FC<ProjectsProps> = ({ color }) => {
             ))}
           </Stack>
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
-            Other Projects
+            All Projects
           </Text>
           <Center px={4}>
             <ButtonGroup variant="outline">
@@ -125,11 +125,11 @@ const Projects: React.FC<ProjectsProps> = ({ color }) => {
               </Button>
               {options.map((option) => (
                 <Button
-                  key={option}
-                  colorScheme={selected === option ? `${color}` : "gray"}
-                  onClick={() => handleSelected(option)}
+                  key={option.value}
+                  colorScheme={selected === option.value ? `${color}` : "gray"}
+                  onClick={() => handleSelected(option.value)}
                 >
-                  {option}
+                  {option.value}
                 </Button>
               ))}
             </ButtonGroup>
@@ -145,7 +145,9 @@ const Projects: React.FC<ProjectsProps> = ({ color }) => {
               })
               .map((other) => (
                 <Fade bottom key={other.name}>
-                  <Card>
+                  <Card h="100%"
+                      display="flex"
+                      flexDirection="column">
                     <Stack>
                       <CardBody align="left" h={[null, "40vh"]}>
                         <Heading size="sm">{other.name}</Heading>

@@ -142,6 +142,9 @@ const Nav: React.FC<NavProps> = ({ color }) => {
                       <Button variant="ghost" onClick={scrollToAbout}>
                         About
                       </Button>
+                      <Button variant="ghost" onClick={scrollToEducation}>
+                        Education
+                      </Button>
                       <Button variant="ghost" onClick={scrollToExperience}>
                         Experience
                       </Button>
