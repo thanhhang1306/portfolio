@@ -73,3 +73,20 @@ A financial literacy web game, aiming to educate players on personal finance.
   - Link [https://github.com/thanhhang1306/financial_literacy.git]
 
 
+## Wordle
+A recreation of New York Time's Wordle, with a word bank of over 3600 words.  
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/Wordle.git]
+
+## Pong
+A recreation of the popular game Pong, with additional features (like cheat codes, background change, etc.). 
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/Pong.git]
