@@ -1,23 +1,29 @@
-## Project 1
-Description
-- Tags: Category 1
+## VietFood
+An Android application which provides intuitive instructions for popular Vietnamese recipes through Android Studio. Database recipes are stored in MySQL database. 
+- Tags: Mobile
 - Badges:
-  - Badge [blue]
+  - Android Studio [green]
+  - MySQL [blue]
+  - Figma [orange]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/thanhhang1306/VietFood.git]
 
-## Project 2
-Description
-- Tags: Category 2
+## SnapShot
+A website which provides daily news from multiple news sources in a concise, digestible fashion.
+- Tags: Website
 - Badges:
-  - Badge [blue]
+  - React [blue]
+  - Firebase [yellow]
+  - OpenAI API [green]
+  - Figma [orange]
 - Buttons:
-  - Link [https://example.com]
+  - Link [hhttps://github.com/devs-cs/SnapShot.git]
 
-## Project 3
-Description
-- Tags: Category 3
+## Financial Literacy 
+A financial literacy web game, aiming to educate players on personal finance.
+- Tags: Website
 - Badges:
-  - Badge [blue]
+  - React/MUI [blue]
+  - OpenAI [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/thanhhang1306/financial_literacy.git]
