@@ -72,4 +72,56 @@ A financial literacy web game, aiming to educate players on personal finance.
 - Buttons:
   - Link [https://github.com/thanhhang1306/financial_literacy.git]
 
+## Brick Breaker
+A recreation of Brick Breaker, with additional features (like cheat codes). 
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/BrickBreaker.git]
 
+## Hangman
+A recreation of Hangman, themed around Computer Science vocabulary terms.
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/Hangman.git]
+
+## Pong
+A recreation of Pong, with additional features (like cheat codes, background change, etc.). 
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/Pong.git]
+  
+## Space Invader
+A recreation of Space Invader, with additional features (like cheat codes, other game modes, etc.).
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/SpaceInvader.git]
+
+## Tic Tac Toe
+A recreation of Tic Tac Toe, with more optionality on board dimensionality and points to win! 
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/TicTacToe.git]
+
+## Wordle
+A recreation of New York Time's Wordle, with a word bank of over 3600 words.  
+- Tags: Game
+- Badges:
+  - Java [blue]
+  - Canva [red]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/Wordle.git]

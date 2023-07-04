@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from "react";
 import {
   Divider,
   Stack,
@@ -21,7 +22,6 @@ import {
 } from "@chakra-ui/react";
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Fade } from "react-reveal";
-import { useState, useEffect } from "react";
 import ExperienceArray from "../context/ExperienceArray";
 import TagsArray from "../context/TagsArray";
 
@@ -80,11 +80,14 @@ export default function Experience({ color }: ExperienceProps): JSX.Element {
               .filter((exp) => exp.tags.includes(selected))
               .map((exp) => (
                 <Fade bottom key={exp.company}>
-                  <Card size="sm">
+                  <Card size="sm" width="100%">
                     <CardHeader>
                       <Flex justifyContent="space-between">
                         <HStack>
-                        <Image src={`${process.env.PUBLIC_URL}/${exp.image}`} h={50} />
+                          <Image
+                            src={`${process.env.PUBLIC_URL}/${exp.image}`}
+                            h={50}
+                          />
                           <Box px={2} align="left">
                             <Text fontWeight={600}>{exp.company}</Text>
                             <Text>{exp.position}</Text>
@@ -112,16 +115,18 @@ export default function Experience({ color }: ExperienceProps): JSX.Element {
                       </Flex>
                     </CardBody>
                     <CardFooter>
-                      <HStack spacing={2}>
+                      <Flex flexWrap="wrap">
                         {exp.badges.map((badge) => (
                           <Badge
                             key={badge.name}
                             colorScheme={badge.colorScheme}
+                            mr={2}
+                            mb={2}
                           >
                             {badge.name}
                           </Badge>
                         ))}
-                      </HStack>
+                      </Flex>
                     </CardFooter>
                   </Card>
                 </Fade>
