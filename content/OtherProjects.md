@@ -72,6 +72,16 @@ A financial literacy web game, aiming to educate players on personal finance.
 - Buttons:
   - Link [https://github.com/thanhhang1306/financial_literacy.git]
 
+## Personal Portfolio 
+This website!
+- Tags: Website
+- Badges:
+  - React [blue]
+  - Chakra UI [pink]
+- Buttons:
+  - Link [https://thanhhang1306.github.io/portfolio/]
+
+
 ## Brick Breaker
 A recreation of Brick Breaker, with additional features (like cheat codes). 
 - Tags: Game
