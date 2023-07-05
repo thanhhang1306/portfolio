@@ -72,7 +72,7 @@ A financial literacy web game, aiming to educate players on personal finance.
 - Buttons:
   - Link [https://github.com/thanhhang1306/financial_literacy.git]
 
-## Personal Portfolio 
+## Personal Portfolio
 This website!
 - Tags: Website
 - Badges:
