@@ -81,7 +81,6 @@ This website!
 - Buttons:
   - Link [https://thanhhang1306.github.io/portfolio/]
 
-
 ## Brick Breaker
 A recreation of Brick Breaker, with additional features (like cheat codes). 
 - Tags: Game
