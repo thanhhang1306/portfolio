@@ -23,9 +23,9 @@ const Header: React.FC<HeaderProps> = ({ color }) => {
     contactSection?.scrollIntoView({ behavior: "smooth" });
   };
 
-  const linkedin = () => {
+  const resume = () => {
     window.open(
-      `https://www.linkedin.com/in/hang-pham-727774188/`,
+      process.env.PUBLIC_URL + "/assets/resume.pdf",
       "_blank",
       "noreferrer,noopener"
     );
@@ -92,9 +92,9 @@ const Header: React.FC<HeaderProps> = ({ color }) => {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={linkedin}
+              onClick={resume}
             >
-              Let's connect!
+              View Resume
             </Button>
             <Button
               variant={"link"}

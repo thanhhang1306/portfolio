@@ -56,6 +56,11 @@ const About: React.FC<AboutProps> = ({ color }) => {
               videos and workshops!
             </Text>
           </Fade>
+          <Fade up>
+          <Text color={"white.600"} fontSize={"xl"} px={4}>
+            Click <a href={process.env.PUBLIC_URL + "/assets/resume.pdf"} target="_blank" style={{textDecoration: 'underline'}}>here</a> for my resume!
+          </Text>
+          </Fade>
         </Stack>
       </Container>
     </>
