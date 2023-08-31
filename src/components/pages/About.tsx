@@ -37,8 +37,8 @@ const About: React.FC<AboutProps> = ({ color }) => {
               My name is Hang Pham, and I am a full-stack and mobile developer
               with an interest in machine learning, finance and diplomacy. I
               currently study at Princeton University for a BSE degree in
-              Computer Science, along with minors in Statistics,
-              Machine Learning and Finance. Currently, I contribute to the
+              Computer Science, along with minors in Statistics & Machine Learning 
+              and Finance. Currently, I contribute to the
               website and mobile development for The Daily Princetonian, am 
               a Digital Specialist for Princeton's Digital Learning Lab, and 
               a TA for Princeton's Algorithm and Data Structure course.
