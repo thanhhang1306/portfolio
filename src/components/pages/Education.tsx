@@ -17,7 +17,7 @@ const Education: React.FC<EducationProps> = ({ color }) => {
     {
       title: "Princeton University (Princeton, NJ)",
       date: "August '22 - June '26",
-      description: "➳  GPA: 3.90/4.00\n➳ BSE: Computer Science\n➳ Certificates: Statistics and Machine Learning, Finance \n➳ CS Courses: Algorithm & Data Structures, Intro. to Programming Systems, Machine Learning & Pattern Recognition (active), Principles of Computer System Design (active), Reasoning About Computation (active).",
+      description: "➳  GPA: 3.90/4.00\n➳ BSE: Computer Science\n➳ Minors: Statistics and Machine Learning, Finance \n➳ CS Courses: Algorithm & Data Structures, Intro. to Programming Systems, Machine Learning & Pattern Recognition (active), Principles of Computer System Design (active), Reasoning About Computation (active).",
     },
     {
       title: "Lamar High School (Houston, TX)",

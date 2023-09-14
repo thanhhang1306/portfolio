@@ -65,8 +65,18 @@
 - List Items:
   - Participant in an 8-week course on AI Safety (Robustness, Monitoring, Alignment and Systemic Safety), taught by Dan Hendrycks at UC Berkeley. 
 
+## Princeton's Intelligent Robot Motion Lab
+- *Research Assistant* | August '23 - Present
+- ![digital_specialist](/assets/logo/irom.png)
+- Tags: Others
+- Badges:
+  - Robotics [orange]
+  - Machine Learning [blue]
+- List Items:
+  - Undergraduate Research Assistant in Dr. Anirudha Majumdar's Intelligent Robot Motion Lab (IRoM-Lab). Working with Ph.D. student in uncertainty alignment for large language model planners within the application of robotics.
+  
 ## Princeton's Digital Learning Lab
-- *Digital Specialist* | September '22 - May '23
+- *Digital Specialist* | September '22 - Present
 - ![digital_specialist](/assets/logo/dll.png)
 - Tags: Others
 - Badges:
@@ -77,11 +87,12 @@
   - Provide the Princeton's community with technical assistance in areas of computer programming, media production, data analysis/visualization, and more.
 
 ## Princeton's Department of Computer Science
-- *Undergraduate Course Assistant* | February '22 - May '23
+- *Undergraduate Course Assistant* | February '22 - Present
 - ![cos](/assets/logo/cos.png)
 - Tags: Others
 - Badges:
   - Java [blue]
   - Data Structure & Algorithm [purple]
 - List Items:
-  - Grade assignments for Princeton's 'COS 226: Algorithm and Data Structure.'
+  - Grader for Princeton's COS226: Algorithm and Data Structure course (Spring 2023 and Fall 2023).
+  - Responsibilities include grading students' programming assignments and providing concise and constructive feedback.
