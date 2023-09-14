@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
     >
       <Container as={Stack} maxW={"6xl"} py={4} align="center">
         <Text>Copyright &copy; 2023 Hang Pham. All rights reserved.</Text>
-        <Text>Last Updated: July 2023</Text>
+        <Text>Last Updated: September 2023</Text>
       </Container>
     </Box>
   );
