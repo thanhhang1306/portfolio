@@ -67,7 +67,7 @@
 
 ## Princeton's Intelligent Robot Motion Lab
 - *Research Assistant* | August '23 - Present
-- ![digital_specialist](/assets/logo/irom.png)
+- ![irom](/assets/logo/irom.png)
 - Tags: Others
 - Badges:
   - Robotics [orange]
