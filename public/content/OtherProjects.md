@@ -26,7 +26,7 @@ Assignments (in C and Assembly ARMv8) with emphasis developing skills for system
 
 ## DevChain
 A platform aiming to resolve the challenges faced when connecting ideators with developers within the web3 landscape. Utilizing the Tron blockchain, it establishes a secure and transparent realm where project concepts can be collaboratively exchanged and developed, all while safeguarding the intellectual property of the ideators. First place project for HackaTRON @Princeton (Web3).
-- Tags: Other 
+- Tags: Others 
 - Badges: 
   - Blockchain [red]
   - Web3 [black]
