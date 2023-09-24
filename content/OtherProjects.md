@@ -1,13 +1,3 @@
-## DevChain
-A platform aiming to resolve the challenges faced when connecting ideators with developers within the web3 landscape. Utilizing the Tron blockchain, it establishes a secure and transparent realm where project concepts can be collaboratively exchanged and developed, all while safeguarding the intellectual property of the ideators. First place project for HackaTRON @Princeton (Web3).
-- Tags: Other 
-- Badges: 
-  - Blockchain [red]
-  - Web3 [black]
-  - Smart Contract [blue]
-- Buttons:
-  - Link: [https://github.com/thanhhang1306/DevChain/blob/main/README.md]
-
 ## COS226: Algorithms and Data Structure Assignments 
 Assignments (in Java) with emphasis on sorting, searching, graphs, and strings; along with analysis on performance and effectiveness in applications. (Due to class policy, I am unable to publicize the code. Please reach out for a demo). 
 - Tags: Others
@@ -33,6 +23,16 @@ Assignments (in C and Assembly ARMv8) with emphasis developing skills for system
   - Buffer Overrun Attack [purple]
 - Buttons:
   - Link [https://www.cs.princeton.edu/courses/archive/spr23/cos217/]
+
+## DevChain
+A platform aiming to resolve the challenges faced when connecting ideators with developers within the web3 landscape. Utilizing the Tron blockchain, it establishes a secure and transparent realm where project concepts can be collaboratively exchanged and developed, all while safeguarding the intellectual property of the ideators. First place project for HackaTRON @Princeton (Web3).
+- Tags: Other 
+- Badges: 
+  - Blockchain [red]
+  - Web3 [black]
+  - Smart Contract [blue]
+- Buttons:
+  - Link: [https://github.com/thanhhang1306/DevChain/blob/main/README.md]
 
 ## VietFood
 An Android application which provides intuitive instructions for popular Vietnamese recipes through Android Studio. Database recipes are stored in MySQL database. 
