@@ -34,6 +34,18 @@ A platform aiming to resolve the challenges faced when connecting ideators with 
 - Buttons:
   - Link: [https://github.com/thanhhang1306/DevChain/blob/main/README.md]
 
+## The Daily Princetonian
+An IOS/Android-compatible application for students to stay up to date with everything Princeton – from breaking news to dining hall menus.
+- Tags: Mobile 
+- Badges: 
+  - React Native [blue]
+  - NodeJS [green]
+  - Flask/Flask-RESTful [black]
+  - AWS RDS (PostgreSQL) [red]
+  - Google Firebase [yellow]
+- Buttons:
+  - Link: [https://apps.apple.com/us/app/the-daily-princetonian/id6461162604]
+
 ## VietFood
 An Android application which provides intuitive instructions for popular Vietnamese recipes through Android Studio. Database recipes are stored in MySQL database. 
 - Tags: Mobile
@@ -43,6 +55,30 @@ An Android application which provides intuitive instructions for popular Vietnam
   - Figma [orange]
 - Buttons:
   - Link [https://github.com/thanhhang1306/VietFood.git]
+
+## New Jersey Tree Foundation Website 
+The NJ Tree Foundation is a statewide nonprofit organization dedicated to planting trees in New Jersey’s most urban neighborhoods, where the need is greatest. This website tracks the trees the non-profit has planted throughout the year.
+- Tags: Website 
+- Badges: 
+  - React [blue]
+  - Flask/Flask-RESTful [black]
+  - MongoDB [green]
+  - Vercel [red]
+- Buttons:
+  - Link: [https://nj-tree.vercel.app/]
+
+## TRU - To Remember U: Writing Legacies
+In the digital age, where fleeting moments are captured with a click, there's a profound magic in preserving the essence and stories of our loved ones in a timeless form. TRU - To Remember U is not just an app; it's a bridge between generations, a keeper of legacies, and a tribute to the unique stories that shape us.
+- Tags: Website 
+- Badges: 
+  - React [blue]
+  - Flask/Flask-RESTful [black]
+  - OpenAI Whisper API, OpenAI GPT API [red]
+  - Lang Chain (Python) [yellow]
+  - MongoDB [green]
+  - Pinecone Vector Database [pink]
+- Buttons:
+  - Link: [https://apps.apple.com/us/app/the-daily-princetonian/id6461162604]
 
 ## SnapShot
 A website which provides daily news from multiple news sources in a concise, digestible fashion.

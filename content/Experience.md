@@ -1,16 +1,26 @@
-## Aspiritech
-- *Software Engineer Intern* | June '23 - Present
-- ![aspiritech](/assets/logo/aspiritech.svg)
+## TigerApps 
+- *Software Developer* | September '23 - Present
+- ![tiger_apps](/assets/logo/tiger_apps.png)
 - Tags: Software Development
 - Badges:
-  - React/Router [blue]
-  - Flask/Flask-RESTful [black]
-  - PostgreSQL [red]
-  - Google Chrome Extension [green]
-  - Figma [orange]
+  - Heroku (and other hosting sites) [pink]
+  - Databases (SQL and NoSQL) [green]
+  - Cloudflare [orange]
+  - Twilio, Sendgrid, etc. [red]
 - List Items:
-  - Design UI/UX and develop a dashboard-style website that provides Aspiritech's clients with live updates of quality assurance test results by dynamically storing updates from TestRail API into PostgreSQL database.
-  - Develop a Google Chrome extension to automate specific quality-assurance tests procedures, compliant with WCAG 2.1 standards.
+  -  Maintain and update a collection of applications under TigerApps, a student organization which build apps and support apps developed by fellow students which are designed to help Princeton student's campus experience and support developers on campus.
+
+## Hack4Impact 
+- *Software Developer* | September '23 - Present
+- ![hack_4_impact](/assets/logo/hack_4_impact.jpeg)
+- Tags: Software Development
+- Badges:
+  - React [blue]
+  - MongoDB [green]
+  - Flask/Flask-RESTful [black]
+  - Vercel [red]
+- List Items:
+  -  Collaborate in small undergraduate team as an experienced developer to create data visualization solution with React, Flask, and MongoDB for Princeton Hack4Impact partnered non-profit NJ Tree Foundation.
 
 ## The Daily Princetonian 
 - *Software Engineer* | January '23 - Present
@@ -28,6 +38,20 @@
   - Build front-end components for the aforementioned platform with React Native. 
   - Develop a photograph archive site for the “This Week in Photos” project using React, NodeJS, and Google Firebase.
 
+## Aspiritech
+- *Software Engineer Intern* | June '23 - July '23 
+- ![aspiritech](/assets/logo/aspiritech.svg)
+- Tags: Software Development
+- Badges:
+  - React/Router [blue]
+  - Flask/Flask-RESTful [black]
+  - PostgreSQL [red]
+  - Google Chrome Extension [green]
+  - Figma [orange]
+- List Items:
+  - Design UI/UX and develop a dashboard-style website that provides Aspiritech's clients with live updates of quality assurance test results by dynamically storing updates from TestRail API into PostgreSQL database.
+  - Develop a Google Chrome extension to automate specific quality-assurance tests procedures, compliant with WCAG 2.1 standards.
+
 ## Vietnam National University of Engineering and Technology
 - *Software Development Intern* | June '22 - August '22
 - ![vnu](/assets/logo/vnu.jpeg)
@@ -41,8 +65,18 @@
   - Collaborate with Professor Trien and his team of university students to develop a website which provides live updates of plants in the greenhouse through sensor and camera footage. 
   - Data collected from sensors are stored in MySQL database, while video footage are stored through MongoDB database.
 
+## Princeton's Intelligent Robot Motion Lab
+- *Research Assistant* | August '23 - Present
+- ![irom](/assets/logo/irom.png)
+- Tags: Machine Learning
+- Badges:
+  - Robotics [orange]
+  - Machine Learning [blue]
+- List Items:
+  - Undergraduate Research Assistant in Dr. Anirudha Majumdar's Intelligent Robot Motion Lab (IRoM-Lab). Working with Ph.D. student in uncertainty alignment for large language model planners within the application of robotics (https://robot-help.github.io/).
+
 ## Ticket Wallet
-- *Software Engineer/Machine Learning Intern* | May '23 - Present
+- *Software Engineer/Machine Learning Intern* | May '23 - November '23 
 - ![ticket_wallet](/assets/logo/tw.png)
 - Tags: Machine Learning
 - Badges:
@@ -57,7 +91,7 @@
   - Contribute to the UI design and testing of the platform's mobile and website application.
 
 ## Intro to ML Safety - Center for AI Safety
-- *Student Participant* | May '23 - Present
+- *Student Participant* | May '23 - August '23 
 - ![ai-safety](/assets/logo/ai.svg)
 - Tags: Machine Learning
 - Badges:
@@ -65,16 +99,17 @@
 - List Items:
   - Participant in an 8-week course on AI Safety (Robustness, Monitoring, Alignment and Systemic Safety), taught by Dan Hendrycks at UC Berkeley. 
 
-## Princeton's Intelligent Robot Motion Lab
-- *Research Assistant* | August '23 - Present
-- ![irom](/assets/logo/irom.png)
+## Virtu Financial
+- *Quantitative Trading Wintern* | January '24 
+- ![virtu](/assets/logo/virtu.png)
 - Tags: Others
 - Badges:
-  - Robotics [orange]
-  - Machine Learning [blue]
+  - Python [orange]
+  - Data Science [yellow]
 - List Items:
-  - Undergraduate Research Assistant in Dr. Anirudha Majumdar's Intelligent Robot Motion Lab (IRoM-Lab). Working with Ph.D. student in uncertainty alignment for large language model planners within the application of robotics.
-  
+  - Gained knowledge on trading and technology at Virtu through interactive lectures with traders. 
+  - Created and presented a trading strategy to senior members of Virtu through the development of a risk-reward model and multiple predictive models with data analysis and market research.
+
 ## Princeton's Digital Learning Lab
 - *Digital Specialist* | September '22 - Present
 - ![digital_specialist](/assets/logo/dll.png)
@@ -87,7 +122,7 @@
   - Provide the Princeton's community with technical assistance in areas of computer programming, media production, data analysis/visualization, and more.
 
 ## Princeton's Department of Computer Science
-- *Undergraduate Course Assistant* | February '22 - Present
+- *Undergraduate Course Assistant* | February '32 - Present
 - ![cos](/assets/logo/cos.png)
 - Tags: Others
 - Badges:
