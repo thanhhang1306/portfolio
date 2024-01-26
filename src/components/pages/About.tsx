@@ -34,7 +34,7 @@ const About: React.FC<AboutProps> = ({ color }) => {
           </Stack>
           <Fade up>
             <Text color={"white.600"} fontSize={"xl"} px={4}>
-              Hello! I'm Thanh Hang Pham, a Computer Science major at Princeton University with a passion for software development, machine learning, and finance. In fact, my first major system was an Android application used by over 300 members of the Vietnamese community in Houston, and my most recent was a website that improved the workflow of quality assurance testers at Aspiritech by around 40%. Though years lie between their development, the transformative power of effective software solutions remains clear, further solidifying my commitment to creating impactful software solutions.
+              Hello! I'm Thanh Hang (Hang) Pham, a Computer Science major at Princeton University with a passion for software development, machine learning, and finance. In fact, my first major system was an Android application used by over 300 members of the Vietnamese community in Houston, and my most recent was a website that improved the workflow of quality assurance testers at Aspiritech by around 40%. Though years lie between their development, the transformative power of effective software solutions remains clear, further solidifying my commitment to creating impactful software solutions.
             </Text>
           </Fade>
           <Fade up>

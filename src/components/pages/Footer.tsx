@@ -14,8 +14,8 @@ const Footer: React.FC = () => {
       color={useColorModeValue("gray.700", "gray.200")}
     >
       <Container as={Stack} maxW={"6xl"} py={4} align="center">
-        <Text>Copyright &copy; 2023 Hang Pham. All rights reserved.</Text>
-        <Text>Last Updated: September 2023</Text>
+        <Text>Copyright &copy; 2024 Hang Pham. All rights reserved.</Text>
+        <Text>Last Updated: January 2024</Text>
       </Container>
     </Box>
   );
