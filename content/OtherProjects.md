@@ -73,7 +73,8 @@ In the digital age, where fleeting moments are captured with a click, there's a 
 - Badges: 
   - React [blue]
   - Flask/Flask-RESTful [black]
-  - OpenAI Whisper API, OpenAI GPT API [red]
+  - OpenAI Whisper API [red]
+  - OpenAI GPT API [red]
   - Lang Chain (Python) [yellow]
   - MongoDB [green]
   - Pinecone Vector Database [pink]
