@@ -34,33 +34,23 @@ const About: React.FC<AboutProps> = ({ color }) => {
           </Stack>
           <Fade up>
             <Text color={"white.600"} fontSize={"xl"} px={4}>
-              My name is Hang Pham, and I am a full-stack and mobile developer
-              with an interest in machine learning, finance and diplomacy. I
-              currently study at Princeton University for a BSE degree in
-              Computer Science, along with minors in Statistics & Machine Learning 
-              and Finance. Currently, I contribute to the
-              website and mobile development for The Daily Princetonian, am 
-              a Digital Specialist for Princeton's Digital Learning Lab, and 
-              a TA for Princeton's Algorithm and Data Structure course.
-              With an interest in ML, I also act as the social chair for
-              Princeton Data Science Club.
+              Hello! I'm Thanh Hang Pham, a Computer Science major at Princeton University with a passion for software development, machine learning, and finance. In fact, my first major system was an Android application used by over 300 members of the Vietnamese community in Houston, and my most recent was a website that improved the workflow of quality assurance testers at Aspiritech by around 40%. Though years lie between their development, the transformative power of effective software solutions remains clear, further solidifying my commitment to creating impactful software solutions.
             </Text>
           </Fade>
           <Fade up>
             <Text color={"white.600"} fontSize={"xl"} px={4}>
-              In my leisure time, I enjoy game development, writing poems,
-              playing the piano, and swimming. I also love designing graphics
-              and am currently a Graphic Designer for Princeton University
-              Student Government (USG) and IgniteSTEM (a branch of Princeton's
-              E-Club). I also co-founded a non-profit called Alluring Vietnam
-              in high school, which showcases Vietnam's hidden gems through
-              videos and workshops!
+              As such, in addition to my academic journey at Princeton, I have participated in diverse experiences like software projects for startups like Ticket Wallet along with student organizations such as The Daily Princetonian and Hack4Impact. I am also currently working as a research assistant with a grad student in Princeton’s iRom Lab (Intelligent Robot Motion Lab), where we research uncertainty Alignment for Large Language Model Planners.
             </Text>
           </Fade>
           <Fade up>
-          <Text color={"white.600"} fontSize={"xl"} px={4}>
-            Click <a href={process.env.PUBLIC_URL + "/assets/resume.pdf"} target="_blank" style={{textDecoration: 'underline'}}>here</a> for my resume!
-          </Text>
+            <Text color={"white.600"} fontSize={"xl"} px={4}>
+              In addition to various collaborative and independent technical projects, I am very involved in my current community, whether through being a member of the student government, as a digital specialist for the university’s digital media space, or as a TA for the algorithm and data structure course. My experience, however, isn't limited to academia. I co-founded Alluring Vietnam, a non-profit aiming to promote the beauty of Vietnam's hidden gems, managing both its marketing and finances. Outside of my technical pursuits, I enjoy swimming, graphic design, video games, and puzzles (especially word games)!
+            </Text>
+          </Fade>
+          <Fade up>
+            <Text color={"white.600"} fontSize={"xl"} px={4}>
+              Click <a href={process.env.PUBLIC_URL + "/assets/resume.pdf"} target="_blank" style={{ textDecoration: 'underline' }}>here</a> for my resume!
+            </Text>
           </Fade>
         </Stack>
       </Container>
