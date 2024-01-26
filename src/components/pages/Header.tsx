@@ -49,24 +49,24 @@ const Header: React.FC<HeaderProps> = ({ color }) => {
           pt={{ base: 36, md: 52 }}
         >
           <Fade>
-          <Heading
-            fontWeight={600}
-            fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
-            lineHeight={"110%"}
-            mb={3} 
-          >
-            Hello, my name is <br />
-           
-            <Text fontFamily="Caveat" fontStyle="cursive" fontSize="6xl"  mb={15}>
-             - Hang Pham -
-            </Text>
-            
-            <Text as={"span"} color={`${color}.400`}>
-              a software engineer.
-            </Text>
-            <br />
-          </Heading>
-          
+            <Heading
+              fontWeight={600}
+              fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
+              lineHeight={"110%"}
+              mb={3}
+            >
+              Hello, my name is <br />
+
+              <Text fontFamily="Caveat" fontStyle="cursive" fontSize="6xl" mb={15}>
+                - Thanh Hang Pham -
+              </Text>
+
+              <Text as={"span"} color={`${color}.400`}>
+                a software engineer.
+              </Text>
+              <br />
+            </Heading>
+
             <Text
               color={"gray.500"}
               fontSize={{ base: "lg", sm: "xl", md: "2xl" }}
