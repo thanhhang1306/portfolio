@@ -17,29 +17,26 @@ const Education: React.FC<EducationProps> = ({ color }) => {
     {
       title: "Princeton University (Princeton, NJ)",
       date: "August '22 - June '26",
-      description: "➳  GPA: 3.90/4.00\n➳ BSE: Computer Science\n➳ Minors: Statistics and Machine Learning, Finance \n➳ CS Courses: Algorithm & Data Structures, Intro. to Programming Systems, Machine Learning, Probability & Stochastic Systems, Business & Innovation, Reasoning About Computation, High Frequency Trading (active), Distributed Systems (active), Economics & Computing (active), Corporate Finance (active), Statistics (active).",
+      description:
+        "➳  GPA: 3.92/4.00\n➳ BSE: Computer Science\n➳ Minors: Statistics and Machine Learning, Finance \n➳ CS Courses: Algorithm & Data Structures, Intro. to Programming Systems, Machine Learning, Probability & Stochastic Systems, Business & Innovation, Reasoning About Computation, Distributed Systems, Economics & Computing, Statistics, Theory of Natural Algorithms (active), Financial Investments (active), Regression & Applied Time Series (active)."
     },
     {
       title: "Lamar High School (Houston, TX)",
       date: "January '20 - June '22",
-      description: "➳  Unweighted GPA: 4.00/4.00; Weighted GPA: 4.77/5.00\n➳  SAT: 1570 (R/W: 770, M: 800)\n➳ IB Diploma Candidate (43/45)",
+      description:
+        "➳  Unweighted GPA: 4.00/4.00; Weighted GPA: 4.77/5.00\n➳  SAT: 1570 (R/W: 770, M: 800)\n➳ IB Diploma Candidate (43/45)"
     },
     {
       title: "Vinschool Times City (Hanoi, Vietnam)",
       date: "August '18 - December '19",
-      description: "➳ One of ten full-scholarship recipients in Vietnam for IGCSE-Cambridge Program",
-    },
+      description: "➳ One of ten full-scholarship recipients in Vietnam for IGCSE-Cambridge Program"
+    }
   ];
 
   return (
     <>
       <Container maxW={"3xl"} id="education">
-        <Stack
-          as={Box}
-          textAlign={"center"}
-          spacing={{ base: 8, md: 14 }}
-          pb={{ base: 20, md: 36 }}
-        >
+        <Stack as={Box} textAlign={"center"} spacing={{ base: 8, md: 14 }} pb={{ base: 20, md: 36 }}>
           <Stack align="center" direction="row" px={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>

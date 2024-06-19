@@ -18,7 +18,7 @@ import {
   ListIcon,
   Button,
   ButtonGroup,
-  Center,
+  Center
 } from "@chakra-ui/react";
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Fade } from "react-reveal";
@@ -47,12 +47,7 @@ export default function Experience({ color }: ExperienceProps): JSX.Element {
   return (
     <>
       <Container maxW={"3xl"} id="experience">
-        <Stack
-          as={Box}
-          textAlign={"center"}
-          spacing={{ base: 8, md: 14 }}
-          pb={{ base: 20, md: 36 }}
-        >
+        <Stack as={Box} textAlign={"center"} spacing={{ base: 8, md: 14 }} pb={{ base: 20, md: 36 }}>
           <Stack align="center" direction="row" px={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
@@ -84,10 +79,7 @@ export default function Experience({ color }: ExperienceProps): JSX.Element {
                     <CardHeader>
                       <Flex justifyContent="space-between">
                         <HStack>
-                          <Image
-                            src={`${process.env.PUBLIC_URL}/${exp.image}`}
-                            h={50}
-                          />
+                          <Image src={`${process.env.PUBLIC_URL}/${exp.image}`} h={50} />
                           <Box px={2} align="left">
                             <Text fontWeight={600}>{exp.company}</Text>
                             <Text>{exp.position}</Text>
@@ -103,11 +95,7 @@ export default function Experience({ color }: ExperienceProps): JSX.Element {
                         <List align="left" spacing={3}>
                           {exp.listItems.map((item, index) => (
                             <ListItem key={index}>
-                              <ListIcon
-                                boxSize={6}
-                                as={ChevronRightIcon}
-                                color={`${color}.500`}
-                              />
+                              <ListIcon boxSize={6} as={ChevronRightIcon} color={`${color}.500`} />
                               {item}
                             </ListItem>
                           ))}
@@ -117,12 +105,7 @@ export default function Experience({ color }: ExperienceProps): JSX.Element {
                     <CardFooter>
                       <Flex flexWrap="wrap">
                         {exp.badges.map((badge) => (
-                          <Badge
-                            key={badge.name}
-                            colorScheme={badge.colorScheme}
-                            mr={2}
-                            mb={2}
-                          >
+                          <Badge key={badge.name} colorScheme={badge.colorScheme} mr={2} mb={2}>
                             {badge.name}
                           </Badge>
                         ))}

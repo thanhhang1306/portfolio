@@ -67,10 +67,21 @@ The NJ Tree Foundation is a statewide nonprofit organization dedicated to planti
 - Buttons:
   - Link: [https://nj-tree.vercel.app/]
 
+## gerr.ai
+gerr.ai enables the average person to be able to see gerrymandering with unprecedented ease. Winner of Best Election/Political Hack at DevFest 24 (Columbia Hackathon)!
+- Tags: Website 
+- Badges: 
+  - React [blue]
+  - Flask/Flask-RESTful [black]
+  - Python [orange]
+  - Machine Learning [green]
+- Buttons: 
+  - Link: [https://github.com/thanhhang1306/gerr.ai]
+
 ## TRU - To Remember U: Writing Legacies
 In the digital age, where fleeting moments are captured with a click, there's a profound magic in preserving the essence and stories of our loved ones in a timeless form. TRU - To Remember U is not just an app; it's a bridge between generations, a keeper of legacies, and a tribute to the unique stories that shape us.
 - Tags: Website 
-- Badges: 
+- Badges:
   - React [blue]
   - Flask/Flask-RESTful [black]
   - OpenAI Whisper API [red]

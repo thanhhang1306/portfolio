@@ -1,3 +1,13 @@
+## Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction
+Risk-Calibrated Interactive Planning (RCIP) is a framework  for measuring and calibrating risk associated with uncertain action selection in human-robot cooperation, with the fundamental idea that the robot should ask for human clarification when the risk associated with the uncertainty in the human's intent cannot be controlled.
+- ![600x300](/assets/logo/irom.png)
+- Badges: 
+  - Machine Learning [blue]
+  - Robotics [orange]
+  - Reinforcement Learning [black]
+- Buttons: 
+  - Link [https://arxiv.org/abs/2403.15959v1]
+
 ## VietFood
 An Android application which provides intuitive instructions for popular Vietnamese recipes through Android Studio. Database recipes are stored in MySQL database. 
 - ![600x300](/assets/logo/vietfood.png)
