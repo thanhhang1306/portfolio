@@ -34,7 +34,8 @@
     "react-scripts": "5.0.1",
     "remarkable": "^2.0.1",
     "typescript": "^5.1.6",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "web3": "^1.7.4"
   },
   "scripts": {
     "start": "react-scripts start",

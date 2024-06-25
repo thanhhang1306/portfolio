@@ -1,3 +1,25 @@
+## Meta 
+- *Software Engineering Intern* | May '24 - Present
+- ![meta](/assets/logo/meta.png)
+- Tags: Software Development
+- Badges:
+  - Python [orange]
+  - Software Infrastructure [blue]
+  - Machine Learning [red]
+- List Items:
+  -  Collaborate as part of the AI Infrastructure team to design and develop an internal tool for automating bulk customizations of AI models. Implement dashboards to enhance user experience and create comprehensive unit testing to ensure functionality.
+
+## Palantir
+- *Launch Intern Intern* | March '24
+- ![palantir](/assets/logo/palantir.jpg)
+- Tags: Software Development
+- Badges:
+  - Foundry [black]
+  - Gotham [red]
+  - AIP [green]
+- List Items:
+  -  Collaborated with other participants to develop an interactive dashboard using Palantir's Foundry platform, allowing world leaders and scientists to make data driven decisions about potential disease threats logistics and vaccine distributions.
+
 ## TigerApps 
 - *Software Developer* | September '23 - Present
 - ![tiger_apps](/assets/logo/tiger_apps.png)
