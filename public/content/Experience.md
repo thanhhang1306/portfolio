@@ -1,5 +1,21 @@
+## Citadel Securities 
+- *Software Engineering Intern* | June '25 - August '25
+- ![meta](/assets/logo/citadel.jpg)
+- Tags: Software Development
+- Badges:
+  - Python [orange]
+  - C++ [red]
+  - React [blue]
+  - Data Analysis + Recon [black]
+  - Software Infrastructure [green]
+- List Items:
+  -  Collaborated with the QF/Trading Ecosystem and Citadel Execution Service teams to design and develop real-time recon dashboards in Python/React for multi-region/asset trades, ensuring robust UAT sign-off when migrating to new workflows. 
+  - Enhanced the Trading Execution Service infrastructure in C++ to integrate across all global markets.
+  - Automated the extraction/interpretation of trade decisions from voice calls and Bloomberg chats to reduce operational risk.
+
+
 ## Meta 
-- *Software Engineering Intern* | May '24 - Present
+- *Software Engineering Intern* | May '24 - August '24
 - ![meta](/assets/logo/meta.png)
 - Tags: Software Development
 - Badges:
@@ -7,7 +23,10 @@
   - Software Infrastructure [blue]
   - Machine Learning [red]
 - List Items:
-  -  Collaborate as part of the AI Infrastructure team to design and develop an internal tool for automating bulk customizations of AI models. Implement dashboards to enhance user experience and create comprehensive unit testing to ensure functionality.
+  -  Collaborated with AI Infrastructure to design and develop internal tools for automating bulk customizations of ML models. 
+  -  Developed comprehensive unit testing in Python and implemented a database to store operations information to track failures.
+  -  Designed dashboards to enhance users’ experience and track the tool’s health based on error-logging tools, database storage.
+
 
 ## Palantir
 - *Launch Intern Intern* | March '24

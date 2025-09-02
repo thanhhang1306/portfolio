@@ -1,5 +1,14 @@
+## SYNTH-L: Synthetic Data Generation for Low-Resource Natural Language Processing
+Independent research work on Synthetic Data Generation for Low-Resource Natural Language Processing + techniques used. 
+- Tags: Others
+- Badges:
+  - Python [orange]
+  - Machine Learning [green]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/SYNTH-L.git]
+
 ## COS226: Algorithms and Data Structure Assignments 
-Assignments (in Java) with emphasis on sorting, searching, graphs, and strings; along with analysis on performance and effectiveness in applications. (Due to class policy, I am unable to publicize the code. Please reach out for a demo). 
+Assignments (in Java) with emphasis on sorting, searching, graphs, and strings; along with analysis on performance and effectiveness in applications. Due to class policy, I am unable to publicize the code. Please reach out for a demo. 
 - Tags: Others
 - Badges:
   - Percolation [red]
@@ -12,8 +21,19 @@ Assignments (in Java) with emphasis on sorting, searching, graphs, and strings; 
 - Buttons:
   - Link [https://docs.google.com/document/d/1It_KZIr-dfytw9BlN45szZTQNxYN1k3mvTqmNkN978g/edit?pli=1#heading=h.ky2ry2ct0qal]
 
+## COS418: Distributed Systems
+Assignments (in Go) related to distributed systems. Due to class policy, I am unable to publicize the code. Please reach out for a demo. 
+- Tags: Others
+- Badges:
+  - Sequential + Distributed Map/Reduce [red]
+  - Chandy-Lamport Distributed Snapshots [orange]
+  - Raft Consensus Algorithm [blue]
+  - Key-Value Storage Service [black]
+- Buttons:
+  - Link [https://www.cs.princeton.edu/courses/archive/spring24/cos418/]
+
 ## COS217: Intro. to Programming Systems Assignments 
-Assignments (in C and Assembly ARMv8) with emphasis developing skills for systems building, including modular program design, testing, debugging, performance optimization, and programming style. (Due to class policy, I am unable to publicize the code. Please reach out for a demo).
+Assignments (in C and Assembly ARMv8) with emphasis developing skills for systems building, including modular program design, testing, debugging, performance optimization, and programming style. Current grading manager for the course (for 5 semesters). Due to class policy, I am unable to publicize the code. Please reach out for a demo.
 - Tags: Others
 - Badges:
   - "De-Comment"/Preprocessor [red]
@@ -23,6 +43,15 @@ Assignments (in C and Assembly ARMv8) with emphasis developing skills for system
   - Buffer Overrun Attack [purple]
 - Buttons:
   - Link [https://www.cs.princeton.edu/courses/archive/spr23/cos217/]
+
+## COS/ECE470: Principles of Blockchains
+Assignments (in Rust) to build a Bitcoin client from scratch. Due to class policy, I am unable to publicize the code. Please reach out for a demo. 
+- Tags: Others
+- Badges:
+  - Cryptography [red]
+  - Bitcoin/Blockchain [orange]
+- Buttons:
+  - Link [https://web3.princeton.edu/principles-of-blockchains/]
 
 ## DevChain
 A platform aiming to resolve the challenges faced when connecting ideators with developers within the web3 landscape. Utilizing the Tron blockchain, it establishes a secure and transparent realm where project concepts can be collaboratively exchanged and developed, all while safeguarding the intellectual property of the ideators. First place project for HackaTRON @Princeton (Web3).
@@ -55,6 +84,16 @@ An Android application which provides intuitive instructions for popular Vietnam
   - Figma [orange]
 - Buttons:
   - Link [https://github.com/thanhhang1306/VietFood.git]
+
+## DARTHUB
+A Dart TODO app with numerous added features. Includes Star Wars theming.
+- Tags: Mobile
+- Badges:
+  - Android Studio [green]
+  - Figma [orange]
+  - Dart [blue]
+- Buttons:
+  - Link [https://github.com/thanhhang1306/DARTHUB.git]
 
 ## New Jersey Tree Foundation Website 
 The NJ Tree Foundation is a statewide nonprofit organization dedicated to planting trees in New Jersey’s most urban neighborhoods, where the need is greatest. This website tracks the trees the non-profit has planted throughout the year.
