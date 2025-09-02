@@ -25,8 +25,8 @@ Assignments (in Java) with emphasis on sorting, searching, graphs, and strings; 
 Assignments (in Go) related to distributed systems. Due to class policy, I am unable to publicize the code. Please reach out for a demo. 
 - Tags: Others
 - Badges:
-  - Sequential + Distributed Map/Reduce [red]
-  - Chandy-Lamport Distributed Snapshots [orange]
+  - Map/Reduce [red]
+  - Chandy-Lamport Snapshots [orange]
   - Raft Consensus Algorithm [blue]
   - Key-Value Storage Service [black]
 - Buttons:
