@@ -1,2 +1,2 @@
 # Portfolio
-My personal portfolio, last updated June 2024!
+My personal portfolio, last updated September 2025!
