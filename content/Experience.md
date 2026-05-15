@@ -116,29 +116,6 @@
 - List Items:
   - Undergraduate Research Assistant in Dr. Anirudha Majumdar's Intelligent Robot Motion Lab (IRoM-Lab). Working with Ph.D. student in uncertainty alignment for large language model planners within the application of robotics (https://robot-help.github.io/).
 
-## Ticket Wallet
-- *Software Engineer/Machine Learning Intern* | May '23 - November '23 
-- ![ticket_wallet](/assets/logo/tw.png)
-- Tags: Machine Learning
-- Badges:
-  - AWS SageMaker [purple]
-  - Django/Django REST [black]
-  - AWS RDS (PostgreSQL) [red]
-  - Flutter [blue]
-  - Figma [orange]
-- List Items:
-  - Develop ML model using MLP and time series data/historical trends to dynamically predict the best ticket prices utilizing AWS SageMaker.
-  - Implement RESTful endpoints to perform CRUD operations on data from AWS PostgreSQL database through Django REST framework. 
-  - Contribute to the UI design and testing of the platform's mobile and website application.
-
-## Intro to ML Safety - Center for AI Safety
-- *Student Participant* | May '23 - August '23 
-- ![ai-safety](/assets/logo/ai.svg)
-- Tags: Machine Learning
-- Badges:
-  - AI Safety and Alignment [red]
-- List Items:
-  - Participant in an 8-week course on AI Safety (Robustness, Monitoring, Alignment and Systemic Safety), taught by Dan Hendrycks at UC Berkeley. 
 
 ## Virtu Financial
 - *Quantitative Trading Wintern* | January '24 
